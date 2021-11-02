@@ -8,3 +8,5 @@ TIWs是赤道太平洋最强的中尺度现象，主要分为Rossby型和Yanai�
 
 #### 参考文献
 [1] Wang M, Xie S, Shen S S P, etal. Rossby and Yanai Modes of Tropical Instability Waves in the Equatorial Pacific Ocean and a Diagnostic Model for Surface Currents[J]. Journal of Physical Oceanography, 2020, 50(10):3009-3024.
+
+DOI: https://doi.org/10.1175/JPO-D-20-0063.1
